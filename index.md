@@ -2,6 +2,8 @@
 layout: page
 title: Introduction
 excerpt: "Introduction à la formation musicale L'Indépendance Musicale de Waterloo"
+image:
+  feature: top_img_1.jpg
 ---
 
 Page d'intro
