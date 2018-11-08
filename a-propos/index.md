@@ -28,7 +28,7 @@ La préparation des programmes se fait au cours des répétitions qui ont lieu l
 
 Tous nos musiciens sont des amateurs, bénévoles, souvent lauréats des écoles et académies de musique. Leur concours garantit à nos représentations une qualité des plus appréciables.
 
-Tout musicien ou ancien musicien désireux de rendre des services effectifs, est invité à prendre contact avec Patrick de Neunheusern, adresse email patrickdn@lamusiquedelagarde.be, numéro de téléphone: 0477 23 18 53. Les candidatures seront accueillies avec joie.
+Tout musicien ou ancien musicien désireux de rendre des services effectifs, est invité à prendre contact avec Patrick de Neunheuser, adresse email patrickdn@lamusiquedelagarde.be, numéro de téléphone: 0477 23 18 53. Les candidatures seront accueillies avec joie.
 
 Pour nous aider, vous pouvez verser vos dons ou cotisations au compte bancaire 271-0222164-66 de la Société Royale l’Indépendance Musicale. Nous vous en remercions d'avance.
 
