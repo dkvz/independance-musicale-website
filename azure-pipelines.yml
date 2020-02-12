@@ -25,10 +25,10 @@ steps:
   inputs:
     SourceFolder: '_site'
     Contents: '**'
-    TargetFolder: 'published'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)'
     CleanTargetFolder: true
 - task: PublishBuildArtifacts@1
   inputs:
-    PathtoPublish: 'published'
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'drop'
     publishLocation: 'Container'
