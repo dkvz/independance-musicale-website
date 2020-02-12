@@ -23,12 +23,10 @@ steps:
     detached: false
 - task: CopyFiles@2
   inputs:
-    SourceFolder: '_site'
-    Contents: '**'
-    TargetFolder: '$(Build.ArtifactStagingDirectory)'
-    CleanTargetFolder: true
+    SourceFolder: '$(build.binariesDirectory)'
+    TargetFolder: 'completely_useless_copy'
 - task: PublishBuildArtifacts@1
   inputs:
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    PathtoPublish: '$(build.binariesDirectory)'
     ArtifactName: 'drop'
     publishLocation: 'Container'
