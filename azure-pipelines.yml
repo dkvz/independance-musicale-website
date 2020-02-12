@@ -27,4 +27,8 @@ steps:
     Contents: '**'
     TargetFolder: 'published'
     CleanTargetFolder: true
-
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: 'published'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
