@@ -16,7 +16,7 @@ Tout musicien intéressé est cordialement invité à assister aux répétitions
 ## Adresse de contact
 
 ### Email
-info [at] independance-musicale.be
+info@independance-musicale.be
 
 ### Courrier postal & téléphone
 Rue Emile Dury 186a 1410 Waterloo
