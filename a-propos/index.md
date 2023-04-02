@@ -29,5 +29,5 @@ La préparation des programmes se fait au cours des répétitions qui ont lieu l
 
 Tous nos musiciens sont des amateurs, bénévoles, souvent lauréats des écoles et académies de musique. Leur participation garantit des représentations de qualité.
 
-Si vous souhaitez vous amuser, améliorer la maîtrise de votre instrument ou tout simplement passer une agréble moment musical, rejoinez-nous le mardi soir de 20h30 à 22h30 au Stade du Pachy, rue Th. Delbar, Waterloo (ASUB Rugby Waterloo). Il y en a pour tous les goûts: rock, pop, jazz ,classique,…. 
+Si vous souhaitez vous amuser, améliorer la maîtrise de votre instrument ou tout simplement passer une agréable moment musical, rejoinez-nous le mardi soir de 20h30 à 22h30 au Stade du Pachy, rue Th. Delbar, Waterloo (ASUB Rugby Waterloo). Il y en a pour tous les goûts: rock, pop, jazz ,classique,…. 
 
