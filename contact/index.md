@@ -30,6 +30,11 @@ Lien vers Google Maps : [666 Chaussée de Bruxelles, Waterloo](http://maps.googl
 
 ---
 
+## Dons
+Si vous souhaitez nous soutenir, vous pouvez verser vos dons ou cotisations au compte bancaire **BE07 2710 2221 6466** de la Société Royale l’Indépendance Musicale. Nous vous en remercions d'avance.
+
+---
+
 ## Réseaux sociaux
 Rejoingez notre page Facebook:
 <div class="fb-page" data-href="https://www.facebook.com/IndependanceWaterloo" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/IndependanceWaterloo" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/IndependanceWaterloo">La Société Royale « l&#039;Indépendance Musicale» de Waterloo</a></blockquote></div>
