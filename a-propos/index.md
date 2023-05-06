@@ -19,7 +19,7 @@ L’Indépendance porte depuis 1998 le titre de Société Royale, et continue d�
 
 ## Aujourd'hui
 
-En 2023, diplomé du Conservatoire Royal de Mons, Jean-Luc Manzi reprend la baguette de notre société (https://lausaeterna.be/js_albums/jean-luc-manzi).
+En 2023, diplomé du Conservatoire Royal de Mons, <a href="https://lausaeterna.be/js_albums/jean-luc-manzi" target="_blank">Jean-Luc Manzi</a> reprend la baguette de notre société.
 
 La société est composée d’une vingtaine de musiciens. Elle a pour but de donner à ceux qui le désirent une formation musicale d’ensemble qui leur permet de prendre place dans l’orchestre.
 
