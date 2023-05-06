@@ -19,9 +19,8 @@ Tout musicien intéressé est cordialement invité à assister aux répétitions
 info@independance-musicale.be
 
 ### Courrier postal & téléphone
-Rue Emile Dury 186a 1410 Waterloo
-Tél.: +32 (0) 2.351.09.17
-Fax: +32 (0) 2.353.08.42
+Rue Fond Vandenbosch n°35 1410 Waterloo
+Tél.: +32 (0) 484.10.21.33
 
 ---
 
