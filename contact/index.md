@@ -30,7 +30,7 @@ Lien vers Google Maps : [Ecole communale du Sagittaire, n°14 Avenue du Sagittai
 ---
 
 ## Dons
-Si vous souhaitez nous soutenir, vous pouvez verser vos dons ou cotisations au compte bancaire **BE07 2710 2221 6466** de la Société Royale l’Indépendance Musicale. Nous vous en remercions d'avance.
+Si vous souhaitez nous soutenir, vous pouvez verser vos dons ou cotisations au compte bancaire **BE77 3632 3661 2342** de la Société Royale l’Indépendance Musicale. Nous vous en remercions d'avance.
 
 ---
 
