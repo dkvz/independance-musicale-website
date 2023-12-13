@@ -19,13 +19,13 @@ L’Indépendance porte depuis 1998 le titre de Société Royale, et continue d�
 
 ## Aujourd'hui
 
-En 2023, diplomé du Conservatoire Royal de Mons, <a href="https://lausaeterna.be/js_albums/jean-luc-manzi" target="_blank">Jean-Luc Manzi</a> reprend la baguette de notre société.
+En 2023, diplomé du Conservatoire Royal de Mons, <a href="https://lausaeterna.be/js_albums/jean-luc-manzi" target="_blank">Jean-Luc Manzi</a> reprend la baguette de notre société suivi de Philippe Plasman.
 
 La société est composée d’une vingtaine de musiciens. Elle a pour but de donner à ceux qui le désirent une formation musicale d’ensemble qui leur permet de prendre place dans l’orchestre.
 
 Sur le plan communal, la société se fait un devoir de prêter son concours pour toutes les cérémonies et fêtes organisées par les services spécialisés de l’administration communale (syndicat d’initiative et comité des fêtes).
 
-La préparation des programmes se fait au cours des répétitions qui ont lieu les mardi de 20h30 à 22h30.
+La préparation des programmes se fait au cours des répétitions qui ont lieu les mardi de 20h00 à 22h00.
 
 Tous nos musiciens sont des amateurs, bénévoles, souvent lauréats des écoles et académies de musique. Leur participation garantit des représentations de qualité.
 
